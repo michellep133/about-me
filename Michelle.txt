@@ -9,8 +9,8 @@ Favorite hobby :: running, climbing, knitting
 
 COLOUR :: BLUE
 
-
-
-COPYRIGHT 20190219
-
 Favorite City?? Rye, Chicago, Osaka
+
+
+COPYRIGHT 20190219 FIXED
+
