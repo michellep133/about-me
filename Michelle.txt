@@ -2,4 +2,8 @@ Michelle ran a half marathon on Saturday and is very sore. She didn't break 2 ho
 
 Her favorite animals are whale sharks and pangolins
 
+<<<<<<< HEAD
 Favorite colour :: white, black, tan, deep blue, pale pink, gold
+=======
+Favorite hobby: running, climbing, knitting
+>>>>>>> fav-hobby
