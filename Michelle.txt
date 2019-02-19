@@ -7,6 +7,8 @@ Favorite colour :: white, black, tan, deep blue, pale pink, gold
 
 Favorite hobby :: running, climbing, knitting
 
+COLOUR :: RED
+
 
 
 COPYRIGHT 20190219
